@@ -6,4 +6,3 @@ heya there
 
 I am here
 He is her:e 
-Staging area
